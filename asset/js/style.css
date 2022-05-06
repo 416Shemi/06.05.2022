@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.products{
+    display: flex;
+ 
+}
+.basket{
+    width: 30%;
+    height: 50vh;
+    border: 3px solid green;
+    margin-left: 3%;
+    margin-top: 30px;
+    border-radius: 30px;
+  
+}
+.fruit{
+    width: 30%;
+    height: 50vh;
+    border: 3px solid darkred;
+    margin-left: 3%;
+    margin-top: 30px;
+    border-radius: 30px;
+
+    
+}
+.vegetable{
+    width: 30%;
+    height: 50vh;
+    border: 3px solid mediumturquoise;
+    margin-left: 3%;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.products h2{
+    font-size: 40px;
+    text-align: center;
+    color: maroon;
+    
+}
+.basket img{
+    height: 130px;
+    width: 130px;
+}
+.meyveler{
+    display: flex;
+}
+.tervezler{
+    display: flex;
+}
+body img{
+    height: 130px;
+    width: 130px;
+   color: brown;
+}
